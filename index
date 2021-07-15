@@ -1,0 +1,7 @@
+<html>
+<head><title> 3D viewer</title></head>
+<body>
+<h1>3D Viewer</h1>
+<iframe src="//sharecad.org/cadframe/load?url=http://www.cadsofttools.com/dwgviewer/hostel_block.dwg" scrolling="no"> </iframe>
+</body>
+</html>
